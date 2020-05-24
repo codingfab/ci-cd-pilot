@@ -4,4 +4,4 @@ date: 2020-05-23T20:13:09+02:00
 draft: false
 ---
 
-Hello, this is my first post here!
+Hello, this is my first post here! :)
