@@ -1,7 +1,7 @@
 ---
 title: ""
-date: 2020-05-23T20:33:44+02:00
-draft: false
+date: 2020-05-24T17:48:18+02:00
+draft: true
 ---
 
-This is the home page 🏠
+This is my home page 🏠
