@@ -1,4 +1,4 @@
-baseURL = "htt://www.example.com"
+baseURL = "https://essaistaticsite.z28.web.core.windows.net/"
 languageCode = "en-us"
 title = "CI CD Pilot"
 disableKinds = ["taxonomy", "taxonomyTerm"]
